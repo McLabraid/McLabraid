@@ -1,7 +1,7 @@
 ### About Me
 
 - 🎓 Cyber Security Graduate from the Technological University of Dublin
-- 📚 Currently studying for the CompTIA Network+ Exam and the AWS Certified Cloud Practitioner
+- 📚 Currently studying for the CompTIA Security+ Exam and the AWS Certified Cloud Practitioner
 - 🔨 Phishing & Security Awareness Engineer @ CyberRiskAware
 - 💻 Furthering learning with TryHackMe.com (https://tryhackme.com/p/McLabraid)
 - 👯 Previous Vice Chairperson of the TUDublin Ethical Hacker Society
