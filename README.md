@@ -5,7 +5,7 @@
 - 🔨 Phishing & Security Awareness Engineer @ CyberRiskAware
 - 💻 Furthering learning with TryHackMe.com (https://tryhackme.com/p/McLabraid)
 - 👯 Previous Vice Chairperson of the TUDublin Ethical Hacker Society
-- ⚡ Main choice of language is Python 3.x
+- ⚡ Language(s): Python 3.x
 - 📃 Certificates: 
                     July 2021 - CompTIA Security+
 
