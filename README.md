@@ -9,8 +9,8 @@
 - 😄 Pronouns: Sé/é
 - ⚡ Fun fact: I play traditional music in pubs quite often and love a good music session 🎸
 - 📃 Certificates: 
-                    March 2024 - Crest Practicioner Threat Intelligence Analyst
-                    Oct 2024 - SANS FOR578 Cyber Threat Intelligence
+                    - March 2024 - Crest Practicioner Threat Intelligence Analyst
+                    - Oct 2024 - SANS FOR578 Cyber Threat Intelligence
                   
 
 ### Github Stats
