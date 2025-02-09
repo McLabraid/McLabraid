@@ -2,7 +2,7 @@
 
 - 🎓 Cyber Security Graduate from the Technological University of Dublin
 - 🔨 Cyber Threat Inteligence Analyst in Aviation Cybersecurity
-- 💻 Furthering learning with TryHackMe.com (https://tryhackme.com/p/McLabraid) and more coding languages
+- 💻 Furthering learning with TryHackMe.com ([https://tryhackme.com/p/McLabraid](https://tryhackme.com/p/Mclabraid)) and more coding languages
 - 👯 Previous Vice Chairperson of the TUDublin Ethical Hacker Society
 - ⚡ Language(s): Python 3.x
 - 😄 Pronouns: Sé/é
