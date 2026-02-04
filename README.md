@@ -9,6 +9,7 @@
 - ⚡ Fun fact: I play traditional music in pubs quite often and love a good music session 🎸<br><br>
 - 📚 Currently studying:
 -  Feb 2026 - SANS SEC498 Practical Open Source Inteligence (OSINT)
+-  
 - 📃 Certificates:
    - March 2024 - Crest Practicioner Threat Intelligence Analyst<br>
    - Oct 2024 - SANS FOR578 Cyber Threat Intelligence
